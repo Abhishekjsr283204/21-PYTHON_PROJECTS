@@ -4,7 +4,7 @@ Programming is a fun, creative skill to develop. Whether you’ve mastered the b
 
 The best way to work through these programs isn’t to merely read their code or copy and paste it to your computer. Take the time to manually type the code from this book into your editor to develop the muscle memory for writing code. This also slows you down so you can consider each line as you type, instead of merely skimming it over with your eyes. Look up any instructions you don’t recognize using an internet search engine, or experiment with them in the interactive shell.
 
-  I will share 40 small projects to this repository Finally, take it upon yourself to re-create the program from scratch and then modify it with features of your own. These exercises give you a solid foundation for how programming concepts are applied to create actual, runnable programs. And most of all, don’t forget to have fun!
+  I will share 21 small projects to this repository Finally, take it upon yourself to re-create the program from scratch and then modify it with features of your own. These exercises give you a solid foundation for how programming concepts are applied to create actual, runnable programs. And most of all, don’t forget to have fun!
 
 
 
