@@ -40,7 +40,7 @@ If n is even, the next number n is n / 2.
 If n is odd, the next number n is n * 3 + 1.
 If n is 1, stop. Otherwise, repeat.
 
-# Digital stream
+# Digital stream(project 6)
 
 This program mimics the “digital stream” visualization from the science fiction movie The Matrix. Random beads of binary “rain” stream up from the bottom of the screen, creating a cool, hacker-like visualization. (Unfortunately, due to the way text moves as the screen scrolls down, it’s not possible to make the streams fall downward without using a module such as Bext.)
 
