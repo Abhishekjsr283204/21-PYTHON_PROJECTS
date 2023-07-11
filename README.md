@@ -8,7 +8,7 @@ The best way to work through these programs isn’t to merely read their code or
 
 
 
-# bagels_project(project 1)
+# Bagels_project(project 1)
 python short game which is very good for beginners to start a small project which helps the understanding and maturity in python
 
 In Bagels, a deductive logic game, you must guess a secret three-digit number based on clues.
@@ -22,7 +22,7 @@ Second step --> Experiment with your own changes and see what happen if you chan
 Third step --> re-attempt to recreate in your own as a practice which gives an idea of how to program and how to create
  #This program uses a multiline string as a bitmap, a 2D image with only two possible colors for each pixel, to determine how it should display a message from the user. In this bitmap, space characters represent an empty space, and all other characters are replaced by characters in the user’s message. The provided bitmap resembles a world map, but you can change this to any image you’d like. The binary simplicity of the space-or-message-characters system makes it good for beginners. Try experimenting with different messages to see what the results look like!
 
-# bitmap message(project 2)
+# Bitmap message(project 2)
 This program uses a multiline string as a bitmap, a 2D image with only two possible colors for each pixel, to determine how it should display a message from the user. In this bitmap, space characters represent an empty space, and all other characters are replaced by characters in the user’s message. The provided bitmap resembles a world map, but you can change this to any image you’d like. The binary simplicity of the space-or-message-characters system makes it good for beginners. Try experimenting with different messages to see what the results look like!
 
 # Caesar cipher(project 3)
