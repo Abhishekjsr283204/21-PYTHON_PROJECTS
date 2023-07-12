@@ -58,3 +58,11 @@ Guess the Number is a classic game for beginners to practice basic programming t
 There’s no better way to demonstrate your mad hacker skills than by replacing letters in your text with numbers: m4d h4x0r 5k1llz!!! This word program automatically converts plain English into leetspeak, the coolest way to talk online. Or at least it was in 1993.
 
 It takes a while to get used to, but with some practice, you’ll eventually be able to read leetspeak fluently. For example, 1t +@]<3s 4 w|-|1le +o g37 |_|s3|) 70, b|_|+ y0u (an 3\/3nt|_|/-\lly r3a|) l33t$peak phl|_|3n+ly. Leetspeak may be hard to read at first, but the program itself is simple and good for beginners. More information about leetspeak can be found at https://en.wikipedia.org/wiki/Leet.
+
+# Million dice roll Statistics Simulator(project 11)
+
+When you roll two six-sided dice, there’s a 17 percent chance you’ll roll a 7. That’s much better than the odds of rolling a 2: just 3 percent. That’s because there’s only one combination of dice rolls that gives you 2 (the one that occurs when both dice roll a 1), but many combinations add up to seven: 1 and 6, 2 and 5, 3 and 4, and so on.
+
+But what about when you roll three dice? Or four? Or 1,000? You could mathematically calculate the theoretical probabilities, or you can have the computer roll a number of dice one million times to empirically figure them out. This program takes that latter approach. In this program, you tell the computer to roll N dice one million times and remember the results. It then displays the percentage chance of each sum.
+
+This program does a massive amount of computation, but the computation itself isn’t hard to understand.
