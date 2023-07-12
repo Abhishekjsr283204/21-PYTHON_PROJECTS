@@ -2,7 +2,7 @@ import random
 import time
 
 print('''Million Dice Roll Statistics Simulator
-By Al Sweigart al@inventwithpython.com
+By Abhishek kumar
 
 Enter how many six-sided dice you want to roll:''')
 numberOfDice = int(input('> '))
