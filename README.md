@@ -67,5 +67,5 @@ But what about when you roll three dice? Or four? Or 1,000? You could mathematic
 
 This program does a massive amount of computation, but the computation itself isn’t hard to understand.
 
-# MULTIPLICATION TABLE
+# MULTIPLICATION TABLE(project 12)
 This program generates a multiplication table from 0 × 0 to 12 × 12. While simple, it provides a useful demonstration of nested loops
