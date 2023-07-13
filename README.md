@@ -66,3 +66,6 @@ When you roll two six-sided dice, there’s a 17 percent chance you’ll roll a 
 But what about when you roll three dice? Or four? Or 1,000? You could mathematically calculate the theoretical probabilities, or you can have the computer roll a number of dice one million times to empirically figure them out. This program takes that latter approach. In this program, you tell the computer to roll N dice one million times and remember the results. It then displays the percentage chance of each sum.
 
 This program does a massive amount of computation, but the computation itself isn’t hard to understand.
+
+# MULTIPLICATION TABLE
+This program generates a multiplication table from 0 × 0 to 12 × 12. While simple, it provides a useful demonstration of nested loops
