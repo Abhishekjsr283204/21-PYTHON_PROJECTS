@@ -69,3 +69,7 @@ This program does a massive amount of computation, but the computation itself is
 
 # MULTIPLICATION TABLE(project 12)
 This program generates a multiplication table from 0 × 0 to 12 × 12. While simple, it provides a useful demonstration of nested loops
+
+# Ninety-nine bottles(Project 13)
+
+“Ninety-Nine Bottles” is a folk song of undetermined origin known for its length and repetitiveness. The lyrics go, “Ninety-nine bottles of milk on the wall, ninety-nine bottles of milk. Take one down, pass it around, ninety-eight bottles of milk on the wall.” As the lyrics repeat, the number of bottles falls from ninety-eight to ninety-seven, then from ninety-seven to ninety-six, until it reaches zero: “One bottle of milk on the wall, one bottle of milk. Take it down, pass it around, no more bottles of milk on the wall!
