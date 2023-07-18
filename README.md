@@ -73,7 +73,8 @@ This program generates a multiplication table from 0 × 0 to 12 × 12. While sim
 # Ninety-nine bottles(Project 13)
 
 “Ninety-Nine Bottles” is a folk song of undetermined origin known for its length and repetitiveness. The lyrics go, “Ninety-nine bottles of milk on the wall, ninety-nine bottles of milk. Take one down, pass it around, ninety-eight bottles of milk on the wall.” As the lyrics repeat, the number of bottles falls from ninety-eight to ninety-seven, then from ninety-seven to ninety-six, until it reaches zero: “One bottle of milk on the wall, one bottle of milk. Take it down, pass it around, no more bottles of milk on the wall!
-# Numeral system counter
+
+# Numeral system counter(project 14)
 We’re used to counting in the decimal numeral system, which uses 10 digits: 0 through 9. This system likely developed because humans counted on their fingers, and most people have 10 fingers. But other number systems exist. Computers make use of binary, a numeral system with only two digits, 0 and 1. Programmers also sometimes use hexadecimal, which is a base-16 numeral system that uses the digits 0 to 9 but also extends into the letters A to F.
 
 We can represent any number in any numeral system, and this program displays a range of numbers in decimal, binary, and hexadecimal.
