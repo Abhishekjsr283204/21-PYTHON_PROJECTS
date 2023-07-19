@@ -80,4 +80,4 @@ We’re used to counting in the decimal numeral system, which uses 10 digits: 0 
 We can represent any number in any numeral system, and this program displays a range of numbers in decimal, binary, and hexadecimal.
 # Periodic classfication of element(project 15)
 
-The periodic table of the elements organizes all known chemical elements into a single table. This program presents this table and lets the player access additional information about each element, such as its atomic number, symbol, melting point, and so on. I compiled this information from Wikipedia and stored it in a file called periodictable.csv that you can download from https://inventwithpython.com/periodictable.csv.
+The periodic table of the elements organizes all known chemical elements into a single table. This program presents this table and lets the player access additional information about each element, such as its atomic number, symbol, melting point, and so on. I compiled this information from Wikipedia and stored it in a file called periodictable.csv that you can download from code section
