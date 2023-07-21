@@ -4,7 +4,7 @@ Programming is a fun, creative skill to develop. Whether you’ve mastered the b
 
 The best way to work through these programs isn’t to merely read their code or copy and paste it to your computer. Take the time to manually type the code from this book into your editor to develop the muscle memory for writing code. This also slows you down so you can consider each line as you type, instead of merely skimming it over with your eyes. Look up any instructions you don’t recognize using an internet search engine, or experiment with them in the interactive shell.
 
-  I will share 21 small projects to this repository Finally, take it upon yourself to re-create the program from scratch and then modify it with features of your own. These exercises give you a solid foundation for how programming concepts are applied to create actual, runnable programs. And most of all, don’t forget to have fun!
+  I  share 21 small projects to this repository Finally, take it upon yourself to re-create the program from scratch and then modify it with features of your own. These exercises give you a solid foundation for how programming concepts are applied to create actual, runnable programs. And most of all, don’t forget to have fun!
 
 
 
@@ -77,7 +77,11 @@ This program generates a multiplication table from 0 × 0 to 12 × 12. While sim
 # Numeral system counter(project 14)
 We’re used to counting in the decimal numeral system, which uses 10 digits: 0 through 9. This system likely developed because humans counted on their fingers, and most people have 10 fingers. But other number systems exist. Computers make use of binary, a numeral system with only two digits, 0 and 1. Programmers also sometimes use hexadecimal, which is a base-16 numeral system that uses the digits 0 to 9 but also extends into the letters A to F.
 
-We can represent any number in any numeral system, and this program displays a range of numbers in decimal, binary, and hexadecimal.
+
 # Periodic classfication of element(project 15)
 
 The periodic table of the elements organizes all known chemical elements into a single table. This program presents this table and lets the player access additional information about each element, such as its atomic number, symbol, melting point, and so on. I compiled this information from Wikipedia and stored it in a file called periodictable.csv that you can download from code section
+
+# Prime number(project 16)
+A prime number is a number that is evenly divisible only by one and itself. Prime numbers have a variety of practical applications, but no algorithm can predict them; we must calculate them one at a time. However, we do know that there is an infinite number of prime numbers to be discovered
+    
