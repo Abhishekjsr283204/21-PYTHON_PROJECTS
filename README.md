@@ -84,4 +84,7 @@ The periodic table of the elements organizes all known chemical elements into a 
 
 # Prime number(project 16)
 A prime number is a number that is evenly divisible only by one and itself. Prime numbers have a variety of practical applications, but no algorithm can predict them; we must calculate them one at a time. However, we do know that there is an infinite number of prime numbers to be discovered
-    
+
+# Snail race(project 17)
+
+You won’t be able to handle the fast-paced excitement of these racing . . . snails. But what they lack in speed they make up for in ASCII-art cuteness. Each snail (represented by an @ character for the shell and v for the two eyestalks) moves slowly but surely toward the finish line. Up to eight snails, each with a custom name, can race each other, leaving a slime trail in their wake. This program is good for beginners.
