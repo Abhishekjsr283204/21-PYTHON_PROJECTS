@@ -88,3 +88,5 @@ A prime number is a number that is evenly divisible only by one and itself. Prim
 # Snail race(project 17)
 
 You won’t be able to handle the fast-paced excitement of these racing . . . snails. But what they lack in speed they make up for in ASCII-art cuteness. Each snail (represented by an @ character for the shell and v for the two eyestalks) moves slowly but surely toward the finish line. Up to eight snails, each with a custom name, can race each other, leaving a slime trail in their wake. This program is good for beginners.
+ # Sponge case(project 18)
+ You’ve probably seen the “Mocking SpongeBob” meme: a picture of SpongeBob SquarePants, with a caption whose text alternates between upper- and lowercase letters to indicate sarcasm, like this: uSiNg SpOnGeBoB MeMeS dOeS NoT mAkE YoU wItTy. For some randomness, the text sometimes doesn’t alternate capitalization.
