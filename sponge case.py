@@ -8,7 +8,7 @@ except ImportError:
 
 def main():
     """Run the Spongecase program."""
-    print('''sPoNgEtExT, bY aL sWeIGaRt Al@iNvEnTwItHpYtHoN.cOm
+    print('''sPoNgEtExT, bY AbHiShEk KuMaR
 
 eNtEr YoUr MeSsAgE:''')
     spongecase = englishToSpongecase(input('> '))
