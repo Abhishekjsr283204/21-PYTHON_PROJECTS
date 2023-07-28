@@ -98,3 +98,6 @@ What does a yellow stone thrown into a blue pond become? Do they have a 4th of J
  # Text to speech(project 20)
  
 This program demonstrates the use of the pyttsx3 third-party module. Any message you enter will be spoken out loud by your operating system’s text-to-speech capabilities. Although computer-generated speech is an incredibly complex branch of computer science, the pyttsx3 module provides an easy interface for it, making this small program suitable for beginners. Once you’ve learned how to use the module, you can add generated speech to your own programs.
+ 
+ # Sound mimics(project 21)
+Similar to the Simon electronic toy, this memorization game uses the third-party play sound module to play four different sounds, which correspond to the A, S, D, and F keys on the keyboard. As you successfully repeat the pattern the game gives you, the patterns get longer and longer. How many sounds can you hold in your short-term memory? all the sound files I share to the code section and make sure these sound files are in the same directory/folder
